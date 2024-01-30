@@ -10,4 +10,4 @@ const o = {
 
 let x = o.person.fullName();
 console.log(x);
-  
+
